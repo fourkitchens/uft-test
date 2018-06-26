@@ -1,0 +1,14 @@
+uuid: 429c0401-be2a-45ca-9336-4d9acf926dc1
+name: uft-test
+mail: jeff@fourkitchens.com
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: en
+default_langcode: en
+_core:
+  default_config_hash: yXadRE77Va-G6dxhd2kPYapAvbnSvTF6hO4oXiOEynI
